@@ -1,0 +1,11 @@
+p.destacado {
+ border:solid black 1px;
+}
+
+p.destacado, #id1 {
+    border:solid black 1px;
+}
+
+p.destacado, #id4 {
+    border: solid black 1px;
+}
